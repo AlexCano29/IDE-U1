@@ -7,6 +7,7 @@
 <h2 align="center">Ingeniería en Redes Inteligentes y Ciberseguridad</h2>
 <h3 align="center">Grupo: GIRI9051</h3>
 <h3 align="center">Unidad 1</h3>
+<h3 align="center">Prof. Eric Domenzain Morales</h3>
 <h3 align="center">Nombre: Julián Alexis Cano Cruces</h3>
 <h3 align="center">Número de Control: 1222100415</h3>
 <h3 align="center">Fecha: 11/06/25</h3>
@@ -134,7 +135,8 @@ git config --global user.email "tuemail@example.com"
 
 **Evidencia:**
 
-![Evidencia Hello World](ruta/a/la/imagen_hello_world.png)
+![Evidencia Hello World](helloworld.png
+)
 
 
 Para verificar el funcionamiento correcto de Docker se ejecutó:
@@ -149,7 +151,9 @@ El resultado fue exitoso, mostrando un mensaje de confirmación que indica que D
 
 **Evidencia:**
 
-![Evidencia stack-jacc](ruta/a/la/imagen_stack_jacc.png)
+![Evidencia stack-jacc](yaml.png)
+
+![Evidencia pagina de home](home.png)
 
 
 Se utilizó un archivo `stack-jacc.yml` con definición de servicios como PhpMyAdmin, MySQL, Backend Node y Frontend Angular. Para probarlo se ejecutó:
